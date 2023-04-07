@@ -1,0 +1,28 @@
+/*styling for the recipes practic */
+
+ul li{
+    color:green;
+
+}
+
+ol li{
+    color:purple;
+
+}
+
+
+h1{
+    font-family:verdana , geneva;
+    font-size: 66px;
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+img {
+    height:auto;
+    width: 500px;
+    
+}
